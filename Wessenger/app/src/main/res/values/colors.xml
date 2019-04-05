@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="messagePrimary">#0f8eb5</color>
+    <color name="backgroundDark">#0c3d48</color>
+
+    <color name="messageText">#13baea</color>
+    <color name="colorAccent">#c7c7c7</color>
+
+    <color name="weatherText">#ED7B22</color>
+    <color name="weatherDark">#0e395b</color>
+
+
+
+</resources>

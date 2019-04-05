@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Wessenger</string>
+
+    <string name="email_registerToLogin">email</string>
+    <string name="email_list">emailArray</string>
+    <string name="password_registerToLogin">password</string>
+    <string name ="Chat_Messages">Chats</string>
+    <string name="login_emailHint">E-mail Address</string>
+    <string name="login_passwordHint">Password</string>
+    <string name="login_password_confirmHint">Confirm Password</string>
+    <string name="login_signIn">Sign In</string>
+    <string name="login_newUser">New User?</string>
+    <string name="login_help">Help?</string>
+    <string name="new_user_first_name">First Name</string>
+    <string name="new_user_last_name">Last Name</string>
+    <string name="new_user_nickname">NickName</string>
+    <string name="new_user_register">Register</string>
+    <string name="new_user_Log_In">Log In</string>
+    <string name="new_contact_connections">Connections</string>
+    <string name="new_contact_add">Add</string>
+    <string name="addcontact_prompt">Enter Connection\'s Email</string>
+    <string name="title_activity_messaging_home">Messaging</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_change_password">Change Password</string>
+    <string name="action_change_password_current_password">Current Password</string>
+    <string name="action_change_password_New_password">New Password</string>
+    <string name="action_change_password_New_password2">Confirm Password</string>
+    <string name="action_change_password_submit">Change Password</string>
+    <string name="authentication_submit">Submit</string>
+    <string name="authentication_code">Code</string>
+    <string name="authentication_code_prompt">Authentication Code</string>
+    <string name="authentication">Please check your email for authentication code</string>
+    <string name="authenticationHeader">Authentication Code Sent</string>
+    <string name="password_recovery_email_prompt">Please check your email for the new temporary password.</string>
+    <string name="action_logout">Logout</string>
+    <string name="weather_home">Current Weather</string>
+
+    <string name="new_message_send">Send</string>
+    <string name="menu_chat">Messenger</string>
+    <string name="menu_nav_home">Home</string>
+    <string name="change_location_zip_code">Enter zip code</string>
+    <string name="title_activity_weather_home">Weather</string>
+    <string name="keys_json_login_success">success</string>
+    <string name="keys_json_login_jwt">token</string>
+    <string name="keys_intent_notification_invitation">was app started from invitation notification?</string>
+    <string name="nav_weather_home">Current Weather</string>
+
+    <string name="keys_json_authentication_code">code</string>
+
+    <string name="keys_intent_notification_msg">was app started from message notification?</string>
+
+    <string name="keys_intent_credentials">intent key for creds</string>
+    <string name="keys_intent_jwt">intent key for jwt</string>
+
+    <string name="new_user_registration_view">Registration</string>
+
+
+    <string name="Menu_Weather">Weather</string>
+    <string name="Menu_Home">Home</string>
+    <string name="Menu_Change_Location">Change Locations</string>
+    <string name="Menu_View_Saved_Locations">View Saved Locations</string>
+    <string name="change_location_zip_prompt">Change location by zip code: </string>
+    <string name="change_location_map_prompt">Change location by map: </string>
+    <string name="change_location_saved_prompt">Change location to a saved location: </string>
+
+    <string name="Menu_Chat">Chat</string>
+    <string name="Chat_Home">Home</string>
+    <string name="Chat_View_Connections">View Connections</string>
+    <string name="Chat_requests_Invitations">Invitations</string>
+    <string name="password_reset_prompt">Please enter the email for your account.</string>
+    <string name="temoraryPassword_reset">Send Password</string>
+    <string name="edittext_temporarypassword">Temporary Password</string>
+    <string name="btn_reset_password_change">Change Password</string>
+    <string name="txt_login_forgotPassword">Forgot Password?</string>
+
+    <string name="keys_shared_prefs">edu.uw.tcss450.wessenger.PREFS</string>
+    <string name="keys_prefs_email">traffic_light_wont_let_me_through</string>
+    <string name="keys_prefs_password">see_the_city_see_the_zoo</string>
+
+    <string name="keys_shared_prefs_auth">edu.uw.tcss450.phishapp.PREFSAUTH</string>
+    <string name="keys_prefs_email_auth">hear_no_evil</string>
+    <string name="keys_prefs_password_auth">see_no_evil</string>
+    <string name="keys_prefs_password2_auth">speak_no_evil</string>
+    <string name="keys_prefs_username_auth">be_no_evil</string>
+    <string name="keys_prefs_first_auth">feel_no_evil</string>
+    <string name="keys_prefs_code_auth">scream_no_evil</string>
+    <string name="keys_prefs_last_auth">want_no_evil</string>
+
+    <string name="keys_shared_prefs_error">edu.uw.tcss450.phishapp.PREFSCODE</string>
+    <string name="keys_prefs_error">cant_eat_your_pudding</string>
+    <string name="connectionview_name_prompt">Name:</string>
+    <string name="connectionview_email_prompt">Email:</string>
+    <string name="requestview_prompt">Request:</string>
+    <string name="invitationsview_prompt">Invitations:</string>
+    <string name="connectionview_details_deletebutton">Delete</string>
+    <string name="connectionview_details_detailsbutton">Details</string>
+    <string name="connectionview_details_messagebutton">Send Message</string>
+
+    <string name="search_hint">Search...:</string>
+    <string name="addchat_prompt">Enter chat\'s name</string>
+    <string name="textview_reqinv_requests">Connections:</string>
+    <string name="textview_reqinv_invites">Pending Invites:</string>\
+    <string name="login_chatHint">Chat Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="placeholder">placeholder</string>
+</resources>
